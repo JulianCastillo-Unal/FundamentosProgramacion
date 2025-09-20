@@ -37,4 +37,5 @@
 
 <h3><a href="https://minaslap.net/course/view.php?id=320">Enlace MinasLAP</a></h3>
 
-[![MinasLAP](https://minaslap.net/pluginfile.php/1/core_admin/logocompact/300x300/1755051362/Logo%20MinasLAP-3%20%281%29.png)](https://minaslap.net/course/view.php?id=320)
+[![MinasLAP](https://minaslap.net/pluginfile.php/1/core_admin/logocompact/300x300/1743629715/Logo%20MinasLAP-3%20%281%29.png)](https://minaslap.net/course/view.php?id=320)
+
