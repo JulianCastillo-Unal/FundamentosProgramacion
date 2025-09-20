@@ -88,6 +88,9 @@
 >>*  Instalar un Entorno de Programación (IDE):
 >>>*  [https://code.visualstudio.com/](https://code.visualstudio.com/)
 >>>*  [https://www.spyder-ide.org/](https://www.spyder-ide.org/)
+>*  Programación de Python en la nube (En línea)
+>>*  Google Colab: https://colab.research.google.com/
+
 
 
 
