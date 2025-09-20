@@ -45,8 +45,14 @@
 *  Magíster en Ingeniería – Sistemas
 *  Doctora en Ingeniería
 *  llotero0@unal.edu.co
-*  Aula Moodle:
->*  https://minaslap.net/course/view.php?id=320
+
+# Apoyo -> BEDA
+## Julian Castillo
+*  Ingeniero de Sistmas
+*  Magíster en Ingeniería
+*  Especialista en Analítica y Big Data
+*  Estudiante Doctorado en Ingeniería - Sistemas e Informática
+*  jacastil@unal.edu.co
 
 <hr size=5 noshade color="gray">
 
@@ -65,4 +71,5 @@
 *  Proyecto práctico 25%
 *  Parciales 60% (2 de 30% c/u)
 
-
+# Calendario
+* ![](https://raw.githubusercontent.com/JulianCastillo-Unal/FundamentosProgramacion/refs/heads/main/Calendario.png)
