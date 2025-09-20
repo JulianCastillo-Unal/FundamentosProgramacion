@@ -73,3 +73,21 @@
 
 # Calendario
 * ![](https://raw.githubusercontent.com/JulianCastillo-Unal/FundamentosProgramacion/refs/heads/main/Calendario.png)
+
+# Introducción al curso
+*  El curso pretende abordar la lógica de programación
+>*  Lenguaje Python
+*  Libros de texto
+>*  Python for everybody - Charles R. Severance
+>*  Lógica de programación - Efraín Oviedo
+>*  The Python Workbook - Ben Stephenson
+El entorno de programación
+*  Programación de Python en PC
+>*  Instalar el motor de Python:
+>>*  [http://www.python.org](http://www.python.org)
+>*  Instalar un Entorno de Programación (IDE):
+>>*  [https://code.visualstudio.com/](https://code.visualstudio.com/)
+>>*  [https://www.spyder-ide.org/](https://www.spyder-ide.org/)
+
+
+
