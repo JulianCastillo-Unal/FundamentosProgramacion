@@ -47,8 +47,8 @@
 *  llotero0@unal.edu.co
 
 # Apoyo -> BEDA
-## Julian Castillo
-*  Ingeniero de Sistmas
+## Julián Castillo
+*  Ingeniero de Sistemas
 *  Magíster en Ingeniería
 *  Especialista en Analítica y Big Data
 *  Estudiante Doctorado en Ingeniería - Sistemas e Informática
@@ -71,8 +71,12 @@
 *  Proyecto práctico 25%
 *  Parciales 60% (2 de 30% c/u)
 
+<hr size=5 noshade color="gray">
+
 # Calendario
 * ![](https://raw.githubusercontent.com/JulianCastillo-Unal/FundamentosProgramacion/refs/heads/main/Calendario.png)
+
+<hr size=5 noshade color="gray">
 
 # Introducción al curso
 >*  El curso pretende abordar la lógica de programación
