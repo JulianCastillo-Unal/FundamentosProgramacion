@@ -36,6 +36,28 @@
 <div align="center">
 
 <h3><a href="https://minaslap.net/course/view.php?id=320">Enlace MinasLAP</a></h3>
+<hr size=10 noshade color="purple">
 
-![MinasLAP](https://minaslap.net/pluginfile.php/1/core_admin/logocompact/300x300/1743629715/Logo%20MinasLAP-3%20%281%29.png)
+# Docente
+## Laura Lotero
+*  Ingeniera Industrial
+*  Magíster en Ingeniería – Sistemas
+*  Doctora en Ingeniería
+*  llotero0@unal.edu.co
+*  Aula Moodle:
+>*  https://minaslap.net/course/view.php?id=320
+<hr size=10 noshade color="purple">
+# Organización del curso:
+## Clase teórica: Martes 8AM (41-103)
+## Clase práctica:
+*  Martes 12M, grupo 10, Aula 04-204
+*  Jueves 8AM, grupo 11, Aula 04-205
+*  Jueves 10AM, grupo 12, Aula 04-205
+<hr size=10 noshade color="purple">
+# Evaluación:
+*  Seguimiento 10%
+*  Curso virtual 5%
+*  Proyecto práctico 25%
+*  Parciales 60% (2 de 30% c/u)
+
 
