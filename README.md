@@ -53,8 +53,8 @@
 # Organización del curso:
 ## Clase teórica: Martes 8AM (41-103)
 ## Clase práctica:
-*  Martes 12M, grupo 10, Aula 04-204
-*  Jueves 8AM, grupo 11, Aula 04-205
+*  Martes 12 M, grupo 10, Aula 04-204
+*  Jueves 08AM, grupo 11, Aula 04-205
 *  Jueves 10AM, grupo 12, Aula 04-205
 
 <hr size=5 noshade color="gray">
