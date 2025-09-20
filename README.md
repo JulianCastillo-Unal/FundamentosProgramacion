@@ -34,8 +34,9 @@
 
 
 <div align="center">
-
 <h3><a href="https://minaslap.net/course/view.php?id=320">Enlace MinasLAP</a></h3>
+</div>
+
 <hr size=10 noshade color="purple">
 
 # Docente
@@ -46,14 +47,18 @@
 *  llotero0@unal.edu.co
 *  Aula Moodle:
 >*  https://minaslap.net/course/view.php?id=320
-<hr size=10 noshade color="purple">
+
+<hr size=5 noshade color="gray">
+
 # Organización del curso:
 ## Clase teórica: Martes 8AM (41-103)
 ## Clase práctica:
 *  Martes 12M, grupo 10, Aula 04-204
 *  Jueves 8AM, grupo 11, Aula 04-205
 *  Jueves 10AM, grupo 12, Aula 04-205
-<hr size=10 noshade color="purple">
+
+<hr size=5 noshade color="gray">
+
 # Evaluación:
 *  Seguimiento 10%
 *  Curso virtual 5%
