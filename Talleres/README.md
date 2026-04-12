@@ -6,8 +6,8 @@
 
 <p>
 <h6 align="center"> <b> </b> </h6>
-<h1 align="center"> <b> Taller Fundamentos de Programación </b> </h1>
-<h2 align="center"> <b> Condicionales y Ciclos </b> </h2>
+<h1 align="center"> <b> Talleres Fundamentos de Programación </b> </h1>
+<h2 align="center"> <b> Repositorio Talleres </b> </h2>
 <hr size=10 noshade color="gray">
 </p>
 <p>
